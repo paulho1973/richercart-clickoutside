@@ -1,4 +1,4 @@
-Refer to article posted in [Medium]().
+Refer to article posted in [Medium](https://paulho1973.medium.com/clickoutside-using-useref-hooks-77f5dcd6c29e).
 
 ## Available Scripts
 
