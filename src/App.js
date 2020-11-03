@@ -7,7 +7,7 @@ const App = () => {
   return (
 
     <Layout >
-            <h1 className="text-3xl text-black pb-6">Outside</h1>
+            <h1 className="text-3xl text-black pb-6 text-right">Outside</h1>
     </Layout>
 
   );

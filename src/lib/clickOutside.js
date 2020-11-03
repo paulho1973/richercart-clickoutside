@@ -1,10 +1,10 @@
 import { useEffect } from "react";
 
-const useClickOutside = ( closeModel, ref ) => {
+const useClickOutside = ( closeModal, ref ) => {
 
   const handleClickOutside = (e) => {
    if (!ref || !ref.current.contains(e.target)) {
-      closeModel();
+      closeModal();
    }
   };
 
